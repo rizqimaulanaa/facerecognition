@@ -9,7 +9,7 @@ Link Download: https://www.riverbankcomputing.com/software/pyqt/download
 2. Install Visual Studio for C++ <br>
 Link Download: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 <br><br>
-3. Install Cmake <br><br>
+3. Install Cmake <br>
 Link Download: https://cmake.org/download/
 <br>
 
